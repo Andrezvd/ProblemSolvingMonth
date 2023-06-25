@@ -4,7 +4,7 @@
 #include <iostream>
 #include <string>
 
-string counterGame(long n) {
+std::string counterGame(long n) {
     bool ispower;
     int counterTurn = 0;
 
