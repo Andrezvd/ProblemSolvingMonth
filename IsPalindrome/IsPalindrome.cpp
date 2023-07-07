@@ -3,6 +3,8 @@
 
 #include <iostream>
 
+using namespace std;
+
 bool ispal(const string& s) {
     int izq = 0;
     int der = s.size() - 1;
